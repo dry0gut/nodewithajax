@@ -9,3 +9,4 @@ $git status                                     //status project
 $git init                                       //init git from my pc
 $git config --global user.name "your name"      //add your name at basic configuration on git project
 $git config --global user.email "your mail"     //add your mail at basic configuration on git project
+$ssh-keygen                                     //create your ssh key
