@@ -1,0 +1,9 @@
+{
+    "name": "tutorial-2016-22-05",
+    "version": "1.0.0",
+    "description": "Version for testing concepts",
+    "author": "Dry0Gut",
+    "dependencies": {
+        "express": "latest"
+    }
+}
